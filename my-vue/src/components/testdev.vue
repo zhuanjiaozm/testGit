@@ -13,7 +13,7 @@
 		},
 		methods: {
       goTsetDev(){
-        this.$router.push('/testdev')
+        this.$router.push('/HelloWorld')
       }
 		},
 		mounted() {

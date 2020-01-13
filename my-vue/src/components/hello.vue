@@ -1,6 +1,6 @@
 <template>
 	<div class="dragbox">
-		<p @click="goTsetDev">我是testdev</p>
+		<p @click="goTsetDev">我是hello组件</p>
 	</div>
 </template>
 
@@ -13,7 +13,7 @@
 		},
 		methods: {
       goTsetDev(){
-        this.$router.push('/hello')
+        this.$router.push('/testdev')
       }
 		},
 		mounted() {
