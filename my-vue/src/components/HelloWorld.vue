@@ -1,6 +1,6 @@
 <template>
 	<div class="dragbox">
-		<p>我是来测试的</p>
+		<p>测试第一次修改提交</p>
 	</div>
 </template>
 
